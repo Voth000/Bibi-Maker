@@ -23,7 +23,6 @@ A powerful, cross-platform batch compression application for images and videos. 
 
 1. **Download**: Choose the appropriate Windows installer:
    - `Bibi Packer Setup.exe` - Standard installer with Start Menu shortcuts
-   - `Bibi Packer-1.2.0-x64-portable.zip` - Portable version (no installation required)
 
 2. **Install**:
    - **Installer**: Double-click `Bibi Packer Setup.exe` and follow the wizard
