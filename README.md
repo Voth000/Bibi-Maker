@@ -1,6 +1,6 @@
 # Bibi Packer v1.2.0
 
-Batch Compression for Images (.PNG, .JPG, .GIF, .Webp) and video (every type into .mp4). Mostly used for building web + app.
+A powerful, cross-platform batch compression application for images and videos. Built with Electron, Bibi Packer provides an intuitive interface for compressing multiple files at once while maintaining quality.
 
 ## 📥 Quick Download
 
