@@ -2,6 +2,12 @@
 
 A powerful, cross-platform batch compression application for images and videos. Built with Electron, Bibi Packer provides an intuitive interface for compressing multiple files at once while maintaining quality.
 
+## 📥 Quick Download
+
+**Windows**: [Download Setup (.exe)](./Windows/Bibi%20Packer%20Setup.exe)  
+**macOS Intel**: [Download (.dmg)](./macOS/Bibi%20Packer-1.2.0.dmg)  
+**macOS Apple Silicon**: [Download (.dmg)](./macOS/Bibi%20Packer-1.2.0-arm64.dmg)
+
 ## 🚀 Features
 
 - **Batch Processing**: Compress entire folders or individual files
@@ -22,7 +28,7 @@ A powerful, cross-platform batch compression application for images and videos. 
 ### Windows Users
 
 1. **Download**: Choose the appropriate Windows installer:
-   - `Bibi Packer Setup.exe` - Standard installer with Start Menu shortcuts
+   - [**Bibi Packer Setup.exe**](./Windows/Bibi%20Packer%20Setup.exe) - Standard installer with Start Menu shortcuts
 
 2. **Install**:
    - **Installer**: Double-click `Bibi Packer Setup.exe` and follow the wizard
@@ -32,10 +38,10 @@ A powerful, cross-platform batch compression application for images and videos. 
 ### macOS Users
 
 1. **Download**: Choose the appropriate macOS package:
-   - `Bibi Packer-1.2.0.dmg` - Intel Macs
-   - `Bibi Packer-1.2.0-arm64.dmg` - Apple Silicon Macs
-   - `Bibi Packer-1.2.0-mac.zip` - Intel Macs (ZIP format)
-   - `Bibi Packer-1.2.0-arm64-mac.zip` - Apple Silicon Macs (ZIP format)
+   - [**Bibi Packer-1.2.0.dmg**](./macOS/Bibi%20Packer-1.2.0.dmg) - Intel Macs
+   - [**Bibi Packer-1.2.0-arm64.dmg**](./macOS/Bibi%20Packer-1.2.0-arm64.dmg) - Apple Silicon Macs
+   - [**Bibi Packer-1.2.0-mac.zip**](./macOS/Bibi%20Packer-1.2.0-mac.zip) - Intel Macs (ZIP format)
+   - [**Bibi Packer-1.2.0-arm64-mac.zip**](./macOS/Bibi%20Packer-1.2.0-arm64-mac.zip) - Apple Silicon Macs (ZIP format)
 
 2. **Install**:
    - **DMG**: Double-click the DMG file, drag Bibi Packer to Applications folder
