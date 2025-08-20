@@ -26,7 +26,6 @@ A powerful, cross-platform batch compression application for images and videos. 
 
 2. **Install**:
    - **Installer**: Double-click `Bibi Packer Setup.exe` and follow the wizard
-   - **Portable**: Extract the ZIP file and run `bibi-packer.exe` directly
 
 3. **Launch**: Find "Bibi Packer" in your Start Menu or Desktop shortcuts
 
