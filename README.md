@@ -158,4 +158,4 @@ For issues, questions, or feature requests:
 
 ---
 
-**Built with ❤️ using Electron, FFmpeg, and Sharp**
+**Built using Electron, FFmpeg, and Sharp**
