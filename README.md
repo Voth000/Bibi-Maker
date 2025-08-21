@@ -1,4 +1,4 @@
-# Bibi Packer v1.2.0
+# Bibi Packer v1.4.0
 
 Batch Compression for Images (.PNG, .JPG, .GIF, .Webp) and video (every type into .mp4). Mostly used for building web + app.
 
@@ -147,15 +147,5 @@ For issues, questions, or feature requests:
 - Review the application logs
 - Ensure you're using the correct version for your system
 
-## 🔄 Version History
-
-### v1.2.0 (Current)
-- Initial public release
-- Cross-platform support (Windows & macOS)
-- Multiple compression formats
-- Batch processing capabilities
-- Professional-grade compression engines (FFmpeg + Sharp)
-
----
 
 **Built using Electron, FFmpeg, and Sharp**
