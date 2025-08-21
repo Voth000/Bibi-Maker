@@ -5,8 +5,8 @@ Batch Compression for Images (.PNG, .JPG, .GIF, .Webp) and video (every type int
 ## 📥 Quick Download
 
 **Windows**: [Download Setup (.exe)](./Windows/Bibi%20Packer%20Setup.exe)  
-**macOS Intel**: [Download (.dmg)](./macOS/Bibi%20Packer-1.2.0.dmg)  
-**macOS Apple Silicon**: [Download (.dmg)](./macOS/Bibi%20Packer-1.2.0-arm64.dmg)
+**macOS Intel**: [Download (.dmg)](./macOS/Bibi%20Packer-1.4.0.dmg)  
+**macOS Apple Silicon**: [Download (.dmg)](./macOS/Bibi%20Packer-1.4.0-arm64.dmg)
 
 ## 🚀 Features
 
@@ -38,10 +38,10 @@ Batch Compression for Images (.PNG, .JPG, .GIF, .Webp) and video (every type int
 ### macOS Users
 
 1. **Download**: Choose the appropriate macOS package:
-   - [**Bibi Packer-1.2.0.dmg**](./macOS/Bibi%20Packer-1.2.0.dmg) - Intel Macs
-   - [**Bibi Packer-1.2.0-arm64.dmg**](./macOS/Bibi%20Packer-1.2.0-arm64.dmg) - Apple Silicon Macs
-   - [**Bibi Packer-1.2.0-mac.zip**](./macOS/Bibi%20Packer-1.2.0-mac.zip) - Intel Macs (ZIP format)
-   - [**Bibi Packer-1.2.0-arm64-mac.zip**](./macOS/Bibi%20Packer-1.2.0-arm64-mac.zip) - Apple Silicon Macs (ZIP format)
+   - [**Bibi Packer-1.4.0.dmg**](./macOS/Bibi%20Packer-1.4.0.dmg) - Intel Macs
+   - [**Bibi Packer-1.4.0-arm64.dmg**](./macOS/Bibi%20Packer-1.4.0-arm64.dmg) - Apple Silicon Macs
+   - [**Bibi Packer-1.4.0-mac.zip**](./macOS/Bibi%20Packer-1.4.0-mac.zip) - Intel Macs (ZIP format)
+   - [**Bibi Packer-1.4.0-arm64-mac.zip**](./macOS/Bibi%20Packer-1.4.0-arm64-mac.zip) - Apple Silicon Macs (ZIP format)
 
 2. **Install**:
    - **DMG**: Double-click the DMG file, drag Bibi Packer to Applications folder
